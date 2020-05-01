@@ -25,23 +25,25 @@ See the [Wikipedia page](https://en.wikipedia.org/wiki/Copula_(probability_theor
 ## Sklar Theorem
 
 ## Univariate Fitting  
-** Parametric **
-### Non-parametric
+- Parametric  
+
+- Non-parametric  
+
 
 ## Dependence measures
-### Pearson Rho
-### Spearman's Rho
-### Kendall's Tau
+- Pearson Rho
+- Spearman's Rho
+- Kendall's Tau
 
 ## Copula models
-### Archimedean copulas 
-### Nested Archimedean copulas
-### Elliptical copulas
-### Extreme-value copulas
-### Frechet-Hoeffding copula
-### Khoudraji copula
-### Rotation of copulas
-### Mixture of copulas
+- Archimedean copulas 
+- Nested Archimedean copulas
+- Elliptical copulas
+- Extreme-value copulas
+- Frechet-Hoeffding copula
+- Khoudraji copula
+- Rotation of copulas
+- Mixture of copulas
 
 ## Decomposition of Sklar theorem
 
