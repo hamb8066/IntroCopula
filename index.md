@@ -18,14 +18,16 @@ See the [Wikipedia page](https://en.wikipedia.org/wiki/Copula_(probability_theor
 * Hofert, M., Kojadinovic, I., Mächler, M., & Yan, J. (2019). [Elements of copula modeling with R.](https://www.springer.com/gp/book/9783319896342) Springer.  
 <sup> [Here](http://copula.r-forge.r-project.org/book) you can find R-codes for this book. </sup>  
 * Czado, C. (2019). [Analyzing Dependent Data with Vine Copulas.](https://www.springer.com/gp/book/9783030137847) Lecture Notes in Statistics, Springer.  
-<sup> [Here](https://www.groups.ma.tum.de/en/statistics/people/claudia-czado/r-code-to-analyzing-dependent-data-with-vinecopulas/) you can find R-codes for vine-copulas </sup>
+<sup> [Here](https://www.groups.ma.tum.de/en/statistics/people/claudia-czado/r-code-to-analyzing-dependent-data-with-vinecopulas/) you can find R-codes for vine-copulas </sup>  
+
 # Contents
 - Exploratory data analysis
 - Univariate Fitting
 - Dependence measures
 - Copula models
 - Decomposition of Sklar theorem
-- Inference on U-data
+- Inference on U-data  
+
 ## Exploratory data analysis
 
 ## Univariate Fitting  
