@@ -10,6 +10,22 @@ Markdown is a lightweight and easy-to-use syntax for styling your writing. It in
 
 ```markdown
 Syntax highlighted code block
+# Exploratory data analysis (EDA)
+
+
+# Sklar Theorem
+```math
+F_{12} (x,y) = C(F_1 (x) , F_2 (y))
+```
+
+# Univariate parametric fitting
+
+
+# Univariate non-parametric fitting
+
+
+#  
+
 
 # Header 1
 ## Header 2
