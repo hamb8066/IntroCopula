@@ -8,7 +8,7 @@ In probability theory and statistics, a copula is a multivariate cumulative dist
 * Medicine  
 * Signal processing  
 * etc.  
-See the [Wikipedia page](https://en.wikipedia.org/wiki/Copula_(probability_theory)) on copulas and [Vine-Copula](https://en.wikipedia.org/wiki/Vine_copula).
+See the Wikipedia page on [copula](https://en.wikipedia.org/wiki/Copula_(probability_theory)) and [Vine-Copula](https://en.wikipedia.org/wiki/Vine_copula).
 
 # Some References
 * Nelsen, R. B. (2007). [An introduction to copulas.](https://www.springer.com/gp/book/9780387286594) Springer Science & Business Media.  
