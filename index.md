@@ -20,14 +20,6 @@ See the Wikipedia page on [copula](https://en.wikipedia.org/wiki/Copula_(probabi
 * Czado, C. (2019). [Analyzing Dependent Data with Vine Copulas.](https://www.springer.com/gp/book/9783030137847) Lecture Notes in Statistics, Springer.  
 <sup> [Here](https://www.groups.ma.tum.de/en/statistics/people/claudia-czado/r-code-to-analyzing-dependent-data-with-vinecopulas/) you can find R-codes for vine-copulas </sup>  
 
-# Contents
-- Exploratory data analysis
-- Univariate Fitting
-- Dependence measures
-- Copula models
-- Decomposition of Sklar theorem
-- Inference on U-data  
-
 ## Exploratory data analysis
 
 ## Univariate Fitting  
