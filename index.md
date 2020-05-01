@@ -24,8 +24,8 @@ See the [Wikipedia page](https://en.wikipedia.org/wiki/Copula_(probability_theor
 ## Exploratory data analysis (EDA)
 ## Sklar Theorem
 
-## Univariate Fitting
-### Parametric
+## Univariate Fitting  
+** Parametric **
 ### Non-parametric
 
 ## Dependence measures
