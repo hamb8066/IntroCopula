@@ -20,9 +20,13 @@ See the [Wikipedia page](https://en.wikipedia.org/wiki/Copula_(probability_theor
 * Czado, C. (2019). [Analyzing Dependent Data with Vine Copulas.](https://www.springer.com/gp/book/9783030137847) Lecture Notes in Statistics, Springer.  
 <sup> [Here](https://www.groups.ma.tum.de/en/statistics/people/claudia-czado/r-code-to-analyzing-dependent-data-with-vinecopulas/) you can find R-codes for vine-copulas </sup>
 # Contents
-
-## Exploratory data analysis (EDA)
-## Sklar Theorem
+- Exploratory data analysis
+- Univariate Fitting
+- Dependence measures
+- Copula models
+- Decomposition of Sklar theorem
+- Inference on U-data
+## Exploratory data analysis
 
 ## Univariate Fitting  
 - Parametric  
@@ -48,22 +52,12 @@ See the [Wikipedia page](https://en.wikipedia.org/wiki/Copula_(probability_theor
 ## Decomposition of Sklar theorem
 
 
+## Inference on U-data
 
 
-
-## Welcome to GitHub Pages
-
-You can use the [editor on GitHub](https://github.com/hamb8066/IntroCopula/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
-
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
-
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
 ```markdown
 Syntax highlighted code block
-
 
 # Header 1
 ## Header 2
@@ -80,12 +74,3 @@ Syntax highlighted code block
 [Link](url) and ![Image](src)
 ```
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/hamb8066/IntroCopula/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
