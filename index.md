@@ -16,7 +16,7 @@ See the [Wikipedia page](https://en.wikipedia.org/wiki/Copula_(probability_theor
 * Durante, F., & Sempi, C. (2015). [Principles of copula theory.](https://www.routledge.com/Principles-of-Copula-Theory-1st-Edition/Durante-Sempi/p/book/9781439884423) CRC press.  
 * Matthias, S., & Jan-frederik, M. (2017). [Simulating Copulas: Stochastic Models, Sampling Algorithms, and Applications.](https://www.worldscientific.com/worldscibooks/10.1142/10265).  
 * Hofert, M., Kojadinovic, I., Mächler, M., & Yan, J. (2019). [Elements of copula modeling with R.](https://www.springer.com/gp/book/9783319896342) Springer.  
-<sub><sup> [Here](http://copula.r-forge.r-project.org/book) you can find R-codes for this book. </sup></sub>  
+<sup> [Here](http://copula.r-forge.r-project.org/book) you can find R-codes for this book. </sup>  
 * Czado, C. (2019). [Analyzing Dependent Data with Vine Copulas.](https://www.springer.com/gp/book/9783030137847) Lecture Notes in Statistics, Springer.  
 <sup> [Here](https://www.groups.ma.tum.de/en/statistics/people/claudia-czado/r-code-to-analyzing-dependent-data-with-vinecopulas/) you can find R-codes for vine-copulas </sup>
 # Exploratory data analysis (EDA)
