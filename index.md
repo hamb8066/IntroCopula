@@ -3,7 +3,6 @@
 
 # Sklar Theorem
 
-Based on Sklar theorem $'F_{12} (x,y) = C(F_1 (x) , F_2 (y))'$.
 
 
 # Univariate parametric fitting
