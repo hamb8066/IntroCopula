@@ -19,17 +19,32 @@ See the [Wikipedia page](https://en.wikipedia.org/wiki/Copula_(probability_theor
 <sup> [Here](http://copula.r-forge.r-project.org/book) you can find R-codes for this book. </sup>  
 * Czado, C. (2019). [Analyzing Dependent Data with Vine Copulas.](https://www.springer.com/gp/book/9783030137847) Lecture Notes in Statistics, Springer.  
 <sup> [Here](https://www.groups.ma.tum.de/en/statistics/people/claudia-czado/r-code-to-analyzing-dependent-data-with-vinecopulas/) you can find R-codes for vine-copulas </sup>
-# Exploratory data analysis (EDA)
+# Contents
 
+## Exploratory data analysis (EDA)
+## Sklar Theorem
 
-# Sklar Theorem
+## Univariate Fitting
+### Parametric
+### Non-parametric
 
+## Dependence measures
+### Pearson Rho
+### Spearman's Rho
+### Kendall's Tau
 
+## Copula models
+### Archimedean copulas 
+### Nested Archimedean copulas
+### Elliptical copulas
+### Extreme-value copulas
+### Frechet-Hoeffding copula
+### Khoudraji copula
+### Rotation of copulas
+### Mixture of copulas
 
-# Univariate parametric fitting
+## Decomposition of Sklar theorem
 
-
-# Univariate non-parametric fitting
 
 
 
