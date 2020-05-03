@@ -25,7 +25,7 @@ See the Wikipedia page on [copula](https://en.wikipedia.org/wiki/Copula_(probabi
 
 # Used R Packages
 * The [copula](https://cran.r-project.org/web/packages/copula/index.html) package.
-* The [Vine-Copula](https://cran.r-project.org/web/packages/copula/index.html) package.
+* The [Vine-Copula](https://github.com/tnagler/VineCopula) package.
 * The [kdevine](https://github.com/tnagler/kdevine) package.
 
 ## Exploratory data analysis
