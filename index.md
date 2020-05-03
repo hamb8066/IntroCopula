@@ -1,5 +1,5 @@
 # Dependence modelling with copula in R
-These codes are collected and gathered by [H.A.Mohtashami-Borzadaran](hamb8066.github.io/homepage) & N. Doodman.
+These codes are collected and gathered by [H.A.Mohtashami-Borzadaran](https://hamb8066.github.io/homepage) & N. Doodman.
 
 # Introduction
 In probability theory and statistics, a copula is a multivariate cumulative distribution function for which the marginal probability distribution of each variable is uniform on the interval [0, 1]. Copulas are used to describe the dependence between random variables. Their name comes from the Latin for "link" or "tie", similar but unrelated to grammatical copulas in linguistics. Sklar's theorem states that any multivariate joint distribution can be written in terms of univariate marginal distribution functions and a copula which describes the dependence structure between the variables. Copulas are popular in high-dimensional statistical applications as they allow one to easily model and estimate the distribution of random vectors by estimating marginals and copulae separately. There are many parametric copula families available, which usually have parameters that control the strength of dependence. Copulas are applied in many fields such as:  
