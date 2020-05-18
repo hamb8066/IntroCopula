@@ -34,8 +34,8 @@ See the Wikipedia page on [copula](https://en.wikipedia.org/wiki/Copula_(probabi
 ## Dependence measures
 - Pearson Rho
 - Spearman's Rho
-- Kendall's Tau  
-
+- Kendall's Tau 
+- Lower and upper tail dependence  
 To download click here.
 
 ## Copula models
@@ -46,7 +46,8 @@ To download click here.
 - Frechet-Hoeffding copula
 - Khoudraji copula
 - Rotation of copulas
-- Mixture of copulas
+- Mixture of copulas  
+To download click here.
 
 ## Decomposition of Sklar theorem
 
