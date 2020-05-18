@@ -31,16 +31,12 @@ See the Wikipedia page on [copula](https://en.wikipedia.org/wiki/Copula_(probabi
 ## EDA & marginal fitting
  This section consists of Exploratory data analysis, univariate parametric and non-parametric fitting. To download click [here](https://github.com/hamb8066/IntroCopula/blob/master/session-1.pdf).
  
-## Univariate Fitting  
-- Parametric  
-
-- Non-parametric  
-
-
 ## Dependence measures
 - Pearson Rho
 - Spearman's Rho
-- Kendall's Tau
+- Kendall's Tau  
+
+To download click here.
 
 ## Copula models
 - Archimedean copulas 
