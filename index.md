@@ -1,12 +1,12 @@
 # Dependence modelling with copula in R
 These codes are collected and gathered by [H.A.Mohtashami-Borzadaran](https://hamb8066.github.io/homepage) & [N. Doodman](https://www.researchgate.net/profile/Neda_Doodman) with the supervision of [Prof. M. Amini](http://m-amini.profcms.um.ac.ir) for the MSc course [Copula Theory and Applications](https://hamb8066.github.io/homepage/teaching) at [Ferdowsi University of Mashhad, Iran](https://en.um.ac.ir/content/Department-of-Statistics). We hope these would be useful for others.
 
-## [EDA & marginal fitting](https://github.com/hamb8066/IntroCopula/blob/master/session-1.pdf)
+## [Session 1: EDA & marginal fitting](https://github.com/hamb8066/IntroCopula/blob/master/session-1.pdf)
 - Exploratory data analysis
 - Univariate parametric fitting
 - Univariate non-parametric fitting.  
  
-## [Detecting dependence](https://github.com/hamb8066/IntroCopula/blob/master/session2.pdf)
+## [Session 2: Detecting dependence](https://github.com/hamb8066/IntroCopula/blob/master/session2.pdf)
 - Kendall plot
 - Pearson correlation coefficient
 - Spearman rank correlation coefficient
@@ -15,7 +15,7 @@ These codes are collected and gathered by [H.A.Mohtashami-Borzadaran](https://ha
 - Exchangeability of model 
 - State of radial symmetry  
 
-## Copula models
+## [Session 3: Copula models](https://github.com/hamb8066/IntroCopula/blob/master/session3.pdf)
 - Archimedean copulas 
 - Nested Archimedean copulas
 - Elliptical copulas
@@ -43,6 +43,16 @@ Syntax highlighted code block
 - Bulleted
 - List
 
+
+
+1. Numbered
+2. List
+
+**Bold** and _Italic_ and `Code` text
+
+[Link](url) and ![Image](src)
+```
+
 ## Some References
 * Nelsen, R. B. (2007). [An introduction to copulas.](https://www.springer.com/gp/book/9780387286594) Springer Science & Business Media.  
 * Joe, H. (2014). [Dependence modeling with copulas.](https://www.routledge.com/Dependence-Modeling-with-Copulas/Joe/p/book/9781466583221) CRC press.  
@@ -57,13 +67,3 @@ Syntax highlighted code block
 * The [copula](https://cran.r-project.org/web/packages/copula/index.html) package.
 * The [Vine-Copula](https://github.com/tnagler/VineCopula) package.
 * The [kdevine](https://github.com/tnagler/kdevine) package.
-
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
