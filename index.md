@@ -28,13 +28,12 @@ See the Wikipedia page on [copula](https://en.wikipedia.org/wiki/Copula_(probabi
 * The [Vine-Copula](https://github.com/tnagler/VineCopula) package.
 * The [kdevine](https://github.com/tnagler/kdevine) package.
 
-## EDA & marginal fitting
+## [EDA & marginal fitting](https://github.com/hamb8066/IntroCopula/blob/master/session-1.pdf)
 - Exploratory data analysis
 - Univariate parametric fitting
 - Univariate non-parametric fitting.  
-To download click [here](https://github.com/hamb8066/IntroCopula/blob/master/session-1.pdf).
  
-## Detecting dependence
+## [Detecting dependence](https://github.com/hamb8066/IntroCopula/blob/master/session2.pdf)
 - Kendall plot
 - Pearson correlation coefficient
 - Spearman rank correlation coefficient
@@ -42,7 +41,6 @@ To download click [here](https://github.com/hamb8066/IntroCopula/blob/master/ses
 - Existence of tail dependence
 - Exchangeability of model 
 - State of radial symmetry  
-To download click [here]((https://github.com/hamb8066/IntroCopula/blob/master/session2.pdf)).
 
 ## Copula models
 - Archimedean copulas 
