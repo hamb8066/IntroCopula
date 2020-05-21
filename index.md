@@ -29,12 +29,16 @@ See the Wikipedia page on [copula](https://en.wikipedia.org/wiki/Copula_(probabi
 * The [kdevine](https://github.com/tnagler/kdevine) package.
 
 ## EDA & marginal fitting
- This section consists of Exploratory data analysis, univariate parametric and non-parametric fitting. To download click [here](https://github.com/hamb8066/IntroCopula/blob/master/session-1.pdf).
+- Exploratory data analysis
+- Univariate parametric fitting
+- Univariate non-parametric fitting.  
+To download click [here](https://github.com/hamb8066/IntroCopula/blob/master/session-1.pdf).
  
 ## Detecting dependence
-- Dependence structure
- - Kendall plot
- - Dependence measures
+- Kendall plot
+- Pearson correlation coefficient
+- Spearman rank correlation coefficient
+- Kendall's Tau coefficient
 - Existence of tail dependence
 - Exchangeability of model 
 - State of radial symmetry  
