@@ -24,12 +24,29 @@ These codes are collected and gathered by [H.A.Mohtashami-Borzadaran](https://ha
 - Khoudraji copula
 - Rotation of copulas
 - Mixture of copulas  
-To download click here.
-
-## Decomposition of Sklar theorem
 
 
-## Inference on U-data
+## [Session 4: Inference on Copula models](https://github.com/hamb8066/IntroCopula/blob/master/session4.pdf)
+
+
+
+
+
+
+## Some References
+* Nelsen, R. B. (2007). [An introduction to copulas.](https://www.springer.com/gp/book/9780387286594) Springer Science & Business Media.  
+* Joe, H. (2014). [Dependence modeling with copulas.](https://www.routledge.com/Dependence-Modeling-with-Copulas/Joe/p/book/9781466583221) CRC press.  
+* Durante, F., & Sempi, C. (2015). [Principles of copula theory.](https://www.routledge.com/Principles-of-Copula-Theory-1st-Edition/Durante-Sempi/p/book/9781439884423) CRC press.  
+* Matthias, S., & Jan-frederik, M. (2017). [Simulating Copulas: Stochastic Models, Sampling Algorithms, and Applications.](https://www.worldscientific.com/worldscibooks/10.1142/10265).  
+* Hofert, M., Kojadinovic, I., Mächler, M., & Yan, J. (2019). [Elements of copula modeling with R.](https://www.springer.com/gp/book/9783319896342) Springer.  
+<sup> [Here](http://copula.r-forge.r-project.org/book) you can find R-codes for this book. </sup>  
+* Czado, C. (2019). [Analyzing Dependent Data with Vine Copulas.](https://www.springer.com/gp/book/9783030137847) Lecture Notes in Statistics, Springer.  
+<sup> [Here](https://www.groups.ma.tum.de/en/statistics/people/claudia-czado/r-code-to-analyzing-dependent-data-with-vinecopulas/) you can find R-codes for vine-copulas </sup>  
+
+## Used R Packages
+* The [copula](https://cran.r-project.org/web/packages/copula/index.html) package.
+* The [Vine-Copula](https://github.com/tnagler/VineCopula) package.
+* The [kdevine](https://github.com/tnagler/kdevine) package.
 
 
 
@@ -53,17 +70,3 @@ Syntax highlighted code block
 [Link](url) and ![Image](src)
 ```
 
-## Some References
-* Nelsen, R. B. (2007). [An introduction to copulas.](https://www.springer.com/gp/book/9780387286594) Springer Science & Business Media.  
-* Joe, H. (2014). [Dependence modeling with copulas.](https://www.routledge.com/Dependence-Modeling-with-Copulas/Joe/p/book/9781466583221) CRC press.  
-* Durante, F., & Sempi, C. (2015). [Principles of copula theory.](https://www.routledge.com/Principles-of-Copula-Theory-1st-Edition/Durante-Sempi/p/book/9781439884423) CRC press.  
-* Matthias, S., & Jan-frederik, M. (2017). [Simulating Copulas: Stochastic Models, Sampling Algorithms, and Applications.](https://www.worldscientific.com/worldscibooks/10.1142/10265).  
-* Hofert, M., Kojadinovic, I., Mächler, M., & Yan, J. (2019). [Elements of copula modeling with R.](https://www.springer.com/gp/book/9783319896342) Springer.  
-<sup> [Here](http://copula.r-forge.r-project.org/book) you can find R-codes for this book. </sup>  
-* Czado, C. (2019). [Analyzing Dependent Data with Vine Copulas.](https://www.springer.com/gp/book/9783030137847) Lecture Notes in Statistics, Springer.  
-<sup> [Here](https://www.groups.ma.tum.de/en/statistics/people/claudia-czado/r-code-to-analyzing-dependent-data-with-vinecopulas/) you can find R-codes for vine-copulas </sup>  
-
-## Used R Packages
-* The [copula](https://cran.r-project.org/web/packages/copula/index.html) package.
-* The [Vine-Copula](https://github.com/tnagler/VineCopula) package.
-* The [kdevine](https://github.com/tnagler/kdevine) package.
