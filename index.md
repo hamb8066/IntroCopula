@@ -35,6 +35,7 @@ These codes are collected and gathered by [H.A.Mohtashami-Borzadaran](https://ha
 
 ## Some References
 * Nelsen, R. B. (2007). [An introduction to copulas.](https://www.springer.com/gp/book/9780387286594) Springer Science & Business Media.  
+* Mai, J., & Scherer, M. (2014). [Financial engineering with copulas explained.](https://link.springer.com/book/10.1057/9781137346315) Springer.
 * Joe, H. (2014). [Dependence modeling with copulas.](https://www.routledge.com/Dependence-Modeling-with-Copulas/Joe/p/book/9781466583221) CRC press.  
 * Durante, F., & Sempi, C. (2015). [Principles of copula theory.](https://www.routledge.com/Principles-of-Copula-Theory-1st-Edition/Durante-Sempi/p/book/9781439884423) CRC press.  
 * Matthias, S., & Jan-frederik, M. (2017). [Simulating Copulas: Stochastic Models, Sampling Algorithms, and Applications.](https://www.worldscientific.com/worldscibooks/10.1142/10265).  
@@ -46,27 +47,7 @@ These codes are collected and gathered by [H.A.Mohtashami-Borzadaran](https://ha
 ## Used R Packages
 * The [copula](https://cran.r-project.org/web/packages/copula/index.html) package.
 * The [Vine-Copula](https://github.com/tnagler/VineCopula) package.
-* The [kdevine](https://github.com/tnagler/kdevine) package.
-
-
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
+* The [kdevine](https://github.com/tnagler/kdevine) package.  
+* The [lcopula](https://cran.r-project.org/package=lcopula) package.  
+* The [extRemes](https://cran.r-project.org/package=extRemes) package.  
 
