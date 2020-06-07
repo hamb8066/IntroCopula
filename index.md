@@ -17,11 +17,11 @@ These codes are collected and gathered by [H.A.Mohtashami-Borzadaran](https://ha
 
 ## [Session 3: Copula models](https://github.com/hamb8066/IntroCopula/blob/master/session3.pdf)
 - Archimedean copulas 
-- Nested Archimedean copulas
 - Elliptical copulas
 - Extreme-value copulas
 - Frechet-Hoeffding copula
 - Khoudraji copula
+- FGM copula
 - Rotation of copulas
 - Mixture of copulas  
 
