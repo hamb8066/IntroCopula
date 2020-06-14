@@ -15,7 +15,7 @@ These codes are collected and gathered by [H.A.Mohtashami-Borzadaran](https://ha
 - Exchangeability of model 
 - State of radial symmetry  
 
-## [Session 3: Copula models](https://github.com/hamb8066/IntroCopula/blob/master/session3.pdf)
+## [Session 3 & 4: Copula models](https://github.com/hamb8066/IntroCopula/blob/master/session3.pdf)
 - Archimedean copulas 
 - Elliptical copulas
 - Extreme-value copulas
@@ -26,11 +26,12 @@ These codes are collected and gathered by [H.A.Mohtashami-Borzadaran](https://ha
 - Mixture of copulas  
 
 
-## [Session 4: Inference on Copula models](https://github.com/hamb8066/IntroCopula/blob/master/session4.pdf)
-
-
-
-
+## [Session 5: Inference on Copula models](https://github.com/hamb8066/IntroCopula/blob/master/session5.pdf)
+- Parameter estimation  
+- Parameter estimation based on full model  
+- Goodness of fit tests  
+- Model selection  
+- Non-parametric methods  
 
 
 ## Some References
@@ -39,7 +40,7 @@ These codes are collected and gathered by [H.A.Mohtashami-Borzadaran](https://ha
 * Joe, H. (2014). [Dependence modeling with copulas.](https://www.routledge.com/Dependence-Modeling-with-Copulas/Joe/p/book/9781466583221) CRC press.  
 * Durante, F., & Sempi, C. (2015). [Principles of copula theory.](https://www.routledge.com/Principles-of-Copula-Theory-1st-Edition/Durante-Sempi/p/book/9781439884423) CRC press.  
 * Matthias, S., & Jan-frederik, M. (2017). [Simulating Copulas: Stochastic Models, Sampling Algorithms, and Applications.](https://www.worldscientific.com/worldscibooks/10.1142/10265).  
-* Hofert, M., Kojadinovic, I., Mächler, M., & Yan, J. (2019). [Elements of copula modeling with R.](https://www.springer.com/gp/book/9783319896342) Springer.  
+* Hofert, M., Kojadinovic, I., Mächler, M., & Yan, J. (2018). [Elements of copula modeling with R.](https://www.springer.com/gp/book/9783319896342) Springer.  
 <sup> [Here](http://copula.r-forge.r-project.org/book) you can find R-codes for this book. </sup>  
 * Czado, C. (2019). [Analyzing Dependent Data with Vine Copulas.](https://www.springer.com/gp/book/9783030137847) Lecture Notes in Statistics, Springer.  
 <sup> [Here](https://www.groups.ma.tum.de/en/statistics/people/claudia-czado/r-code-to-analyzing-dependent-data-with-vinecopulas/) you can find R-codes for vine-copulas </sup>  
