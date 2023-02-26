@@ -6,7 +6,7 @@ These codes are collected and gathered by [H.A.Mohtashami-Borzadaran](https://ha
 - Univariate parametric fitting
 - Univariate non-parametric fitting.  
 
-Online course     [Persian](https://aparat.com/v/hwP8V)     [English]()
+Online course in     [Persian](https://aparat.com/v/hwP8V)
  
 ## [Session 2: Detecting dependence](https://github.com/hamb8066/IntroCopula/blob/master/session2.pdf)
 - Kendall plot
@@ -16,6 +16,8 @@ Online course     [Persian](https://aparat.com/v/hwP8V)     [English]()
 - Existence of tail dependence
 - Exchangeability of model 
 - State of radial symmetry  
+
+Online course in    [Persian](https://aparat.com/v/DCs7N)
 
 ## [Session 3 & 4: Copula models](https://github.com/hamb8066/IntroCopula/blob/master/session3.pdf)
 - Archimedean copulas 
@@ -27,6 +29,7 @@ Online course     [Persian](https://aparat.com/v/hwP8V)     [English]()
 - Rotation of copulas
 - Mixture of copulas  
 
+Online course in     [Persian](https://aparat.com/v/7oKjN)
 
 ## [Session 5: Inference on Copula models](https://github.com/hamb8066/IntroCopula/blob/master/session5.pdf)
 - Parameter estimation  
@@ -35,6 +38,7 @@ Online course     [Persian](https://aparat.com/v/hwP8V)     [English]()
 - Model selection  
 - Non-parametric methods  
 
+Online course in    [Persian](https://aparat.com/v/vHSPJ)
 
 ## Some References
 * Nelsen, R. B. (2007). [An introduction to copulas.](https://www.springer.com/gp/book/9780387286594) Springer Science & Business Media.  
