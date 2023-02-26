@@ -1,10 +1,12 @@
 # Dependence modelling with copula in R
 These codes are collected and gathered by [H.A.Mohtashami-Borzadaran](https://hamb8066.github.io/homepage) & [N. Doodman](https://www.researchgate.net/profile/Neda_Doodman) with the supervision of [Prof. M. Amini](http://m-amini.profcms.um.ac.ir) for the MSc course [Copula Theory and Applications](https://hamb8066.github.io/homepage/teaching) at [Ferdowsi University of Mashhad, Iran](https://en.um.ac.ir/content/Department-of-Statistics). We hope these would be useful for others.
 
-## [Session 1: EDA & marginal fitting](https://github.com/hamb8066/IntroCopula/blob/master/session-1.pdf) [Persian Online Course](https://aparat.com/v/hwP8V)
+## [Session 1: EDA & marginal fitting](https://github.com/hamb8066/IntroCopula/blob/master/session-1.pdf) 
 - Exploratory data analysis
 - Univariate parametric fitting
 - Univariate non-parametric fitting.  
+
+Online course [In Persian](https://aparat.com/v/hwP8V) [In English]()
  
 ## [Session 2: Detecting dependence](https://github.com/hamb8066/IntroCopula/blob/master/session2.pdf)
 - Kendall plot
