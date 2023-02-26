@@ -5,6 +5,7 @@ These codes are collected and gathered by [H.A.Mohtashami-Borzadaran](https://ha
 - Exploratory data analysis
 - Univariate parametric fitting
 - Univariate non-parametric fitting.  
+[Persian Online Course](https://aparat.com/v/hwP8V)
  
 ## [Session 2: Detecting dependence](https://github.com/hamb8066/IntroCopula/blob/master/session2.pdf)
 - Kendall plot
